@@ -1,0 +1,17 @@
+﻿Build started 2015/3/10 21:57:08.
+     1>Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\BoomBlox\BoomBlox.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\BoomBlox.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         BoomBlox.vcxproj -> C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\Release\BoomBlox.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\BoomBlox.unsuccessfulbuild".
+         Touching "Release\BoomBlox.lastbuildstate".
+     1>Done Building Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\BoomBlox\BoomBlox.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28

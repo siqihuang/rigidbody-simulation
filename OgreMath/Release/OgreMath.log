@@ -1,0 +1,17 @@
+﻿Build started 2015/3/10 21:57:08.
+     1>Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\OgreMath\OgreMath.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\OgreMath.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         OgreMath.vcxproj -> C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\Release\OgreMath.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\OgreMath.unsuccessfulbuild".
+         Touching "Release\OgreMath.lastbuildstate".
+     1>Done Building Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\OgreMath\OgreMath.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

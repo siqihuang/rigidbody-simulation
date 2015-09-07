@@ -1,0 +1,12 @@
+﻿Build started 2015/3/8 13:47:24.
+     1>Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\Worlds\Worlds.vcxproj" on node 5 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Worlds.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Release\Worlds.unsuccessfulbuild".
+         Touching "Release\Worlds.lastbuildstate".
+     1>Done Building Project "C:\Users\siqiHuang\Desktop\CGGT\Phy-based Animation\rigid body sim starter kit\rigid body sim starter kit\framework\framework\Worlds\Worlds.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

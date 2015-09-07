@@ -1,0 +1,1279 @@
+<world>
+  <materials>
+    <material name="astroglide" density="1" friction="0.0" restitution="1.0" cr="0.2" cg="0.8" cb="0.4" />
+    <material name="dirt"       density="0" friction="0.9" restitution="0.4" cr="0.8" cg="0.6" cb="0.4" />
+  </materials>
+  <bodies>
+    <ground>
+      <bodymaterial name="dirt" />
+    </ground>
+    <sphere r="1">
+      <pos x="0" y="1" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="0" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="0" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="0" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="3" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="3" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="3" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="3" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="3" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="3" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="3" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="3" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="6" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="6" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="6" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="6" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="6" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="6" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="6" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="6" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="9" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="9" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="9" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="9" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="9" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="9" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="9" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="9" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="12" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="12" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="12" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="12" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="12" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="12" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="12" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="12" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="15" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="15" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="15" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="15" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="15" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="15" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="15" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="15" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="18" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="18" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="18" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="18" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="18" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="18" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="18" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="18" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+
+
+<sphere r="1">
+      <pos x="0" y="1" z="21" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="21" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="21" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="21" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="21" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="21" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="21" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="21" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="24" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="24" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="24" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="24" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="24" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="24" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="24" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="24" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="27" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="27" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="27" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="27" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="30" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="30" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="30" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="30" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="30" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="30" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="30" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="33" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="33" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="33" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="33" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="33" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="33" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="33" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="33" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="36" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="36" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="36" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="36" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="36" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="36" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="36" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="36" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="39" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="39" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="39" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="39" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="39" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="39" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="39" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="39" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+
+
+<sphere r="1">
+      <pos x="0" y="1" z="42" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="42" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="42" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="42" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="42" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="42" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="42" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="42" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="45" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="45" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="45" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="45" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="45" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="45" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="45" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="45" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="48" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="48" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="48" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="48" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="48" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="48" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="48" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="48" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="51" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="51" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="51" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="51" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="51" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="51" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="51" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="51" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="54" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="54" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="54" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="54" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="54" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="54" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="54" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="54" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="57" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="57" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="57" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="57" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="57" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="57" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="57" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="57" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="60" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="60" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="60" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="60" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="60" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="60" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="60" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="60" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+
+
+<sphere r="1">
+      <pos x="0" y="1" z="63" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="63" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="63" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="63" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="63" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="63" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="63" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="63" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="66" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="66" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="66" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="66" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="66" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="66" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="66" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="66" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="69" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="69" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="69" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="69" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="69" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="69" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="69" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="69" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="72" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="72" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="72" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="72" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="72" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="72" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="72" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="72" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="75" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="75" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="75" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="75" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="75" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="75" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="75" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="75" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="78" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="78" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="78" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="78" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="78" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="78" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="78" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="78" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="81" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="81" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="81" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="81" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="81" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="81" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="81" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="81" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+
+
+<sphere r="1">
+      <pos x="0" y="1" z="84" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="84" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="84" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="84" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="84" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="84" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="84" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="84" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="87" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="87" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="87" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="87" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="87" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="87" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="87" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="87" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="90" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="90" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="90" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="90" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="90" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="90" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="90" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="90" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="93" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="93" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="93" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="93" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="93" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="93" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="93" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="93" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="96" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="96" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="96" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="96" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="96" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="96" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="96" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="96" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="99" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="99" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="99" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="99" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="99" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="99" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="99" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="99" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="0" y="1" z="102" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="2" y="1" z="102" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="4" y="1" z="102" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="6" y="1" z="102" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="8" y="1" z="102" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    
+    <sphere r="1">
+      <pos x="-8" y="1" z="102" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-16" y="1" z="102" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+    <sphere r="1">
+      <pos x="-24" y="1" z="102" />
+      <vel x="2" y="0" z="0" />
+      <bodymaterial name="astroglide" />
+    </sphere>
+  </bodies>
+</world>
